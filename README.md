@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Technologies
 - 🌱 I’m currently learning Coding.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me on insta @himanshu.blahblah
 
 <!---
 Ryukflutter/Ryukflutter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
