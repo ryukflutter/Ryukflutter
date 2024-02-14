@@ -1,6 +1,7 @@
 <br clear="both">
 
-<h1 align="center">Hi 👋! My name is Himanshu and I'm a Developer and Programmer</h1>
+<h1 align="center">Hi 👋! My name is Himanshu </h1>
+<h1>I'm a Developer and Programmer from indai</h1>
 
 ###
 
@@ -73,3 +74,6 @@ Thanks for visiting my github profile.
 </div>
 
 ###
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryukflutter" />
+</div>
