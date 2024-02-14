@@ -1,12 +1,16 @@
 <br clear="both">
 
-<h1 align="center">Hi 👋! My name is Himanshu </h1>
-<h1>I'm a Developer and Programmer from indai</h1>
+**<h1 align="center">Hi 👋, I'm Himanshu singh</h1>**
+**<h3>I'm a Developer and Programmer from India</h3>**
 
 ###
 
 <br clear="both">
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryukflutter" />
+</div>
+<br>
+<h3 align="left">Languages and Tools:</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img width="20" />
@@ -34,7 +38,7 @@
 ###
 
 <br clear="both">
-
+<h3>Connect with me!</h3>
 <div align="left">
   <a href="ryukreadsmail@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
@@ -57,23 +61,17 @@
 
 <br clear="both">
 
-<p align="center">
-<br>
-Thanks for visiting my github profile.
-<br>
-</p>
-
 ###
 <div align ="center">
-<img align="center" height="150" src="https://i.pinimg.com/originals/59/ed/67/59ed67c3e1d7e75cefd4fe8cc9b8442a.gif"  />
-</div>
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryukflutter&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikrajofficial&show_icons=true&locale=en&layout=compact" alt="languages graph"  />
+</div>
+
 ###
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryukflutter" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ryukflutter" />
 </div>
